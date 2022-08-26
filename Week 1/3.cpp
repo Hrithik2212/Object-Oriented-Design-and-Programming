@@ -13,3 +13,11 @@ int main(){
         cout << "the given year is not leap year"<<endl;
     }
 }
+
+/*OUTPUT
+Enter the year : 2022
+the given year is not leap year
+
+Enter the year : 2020
+The given year is  leap year 
+*/

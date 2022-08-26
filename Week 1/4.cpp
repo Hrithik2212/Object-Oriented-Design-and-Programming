@@ -19,3 +19,13 @@ int main(){
     }
     return 0;
 }
+
+/*OUTPUT
+
+Enter the number  : 12
+The sum upto given numbers is 78
+
+Enter the number  : -5
+Negative number entered 
+The sum upto given numbers is 0
+*/

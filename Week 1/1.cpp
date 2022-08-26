@@ -14,3 +14,11 @@ int main(){
     }
     return 0;
 }
+
+/*OUTPUT
+Enter the number : 5
+The given number is positive
+
+Enter the number : -12
+The given number is negativ
+*/

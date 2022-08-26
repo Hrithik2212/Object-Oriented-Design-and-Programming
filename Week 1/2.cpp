@@ -20,3 +20,10 @@ int main(){
     }
     return 0;
 }
+
+/*OUTPUT
+
+enter the number : 0
+The given number is zero
+
+*/
